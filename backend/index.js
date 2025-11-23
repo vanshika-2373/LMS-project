@@ -16,7 +16,7 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
-    origin:"https://lms-project-backend-ql0l.onrender.com",
+    origin:"http://localhost:8000",
     credentials:true
 }))
 app.use("/api/auth", authRouter)
