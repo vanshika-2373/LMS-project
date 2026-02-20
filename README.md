@@ -1,6 +1,6 @@
-# 🎓 EduHub – AI Powered Learning Management System
+# 🎓 Virtual courses – AI Powered Learning Management System
 
-EduHub is a scalable full-stack Learning Management System built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).  
+Virtual Courses is a scalable full-stack Learning Management System built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).  
 The platform enables instructors to create and manage courses, while students can securely enroll and access structured video lectures.
 
 It integrates secure authentication, Razorpay payment gateway, AI-powered smart search, and role-based dashboards to deliver a modern SaaS-level e-learning experience.
